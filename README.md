@@ -1,8 +1,8 @@
 # PraveenOruganti-Tech-Ebooks
 
 # Support us
-## PayPal : https://www.paypal.me/opraveen 
-## UPI Id: praveenoruganti-1@okhdfcbank
+- PayPal : https://www.paypal.me/opraveen 
+- UPI Id: praveenoruganti-1@okhdfcbank
 
 # Introduction to Java and OOPS Concepts
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20Java%20Introduction_OOPS%20Concepts.pdf
