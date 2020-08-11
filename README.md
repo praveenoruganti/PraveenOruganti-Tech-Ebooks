@@ -53,7 +53,3 @@ https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Prave
 
 # All About MicroServices, PCF and Spring Cloud
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_MicroServices_PCF_Spring%20Cloud.pdf
-
-# Support us
-- PayPal : https://www.paypal.me/opraveen 
-- UPI Id: praveenoruganti-1@okhdfcbank
