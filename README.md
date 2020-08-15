@@ -55,7 +55,7 @@ https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Prave
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_MicroServices_PCF_Spring%20Cloud.pdf
 
 # All About React JS
-https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20React%20JS.pdf
+https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_React%20JS.pdf
 
 # React JS interview Questions
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/React%20JS%20Interview%20questions.pdf
