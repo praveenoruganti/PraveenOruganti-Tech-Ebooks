@@ -57,5 +57,8 @@ https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Prave
 # All About React JS
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_React%20JS.pdf
 
-# React JS interview Questions
+# JAVA Interview Questions
+https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20Java%20Interview%20Questions.pdf
+
+# React JS Iterview Questions
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/React%20JS%20Interview%20questions.pdf
