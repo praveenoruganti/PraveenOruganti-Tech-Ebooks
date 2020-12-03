@@ -63,9 +63,3 @@ https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Prave
 # React JS Iterview Questions
 https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/React%20JS%20Interview%20questions.pdf
 
-# If you want to buy me a coffee
-### PayPal
-https://paypal.me/praveenorugantitech
-### UPI
-praveenorugantitech@hdfcbank
-
