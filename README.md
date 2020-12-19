@@ -1,7 +1,6 @@
-- PraveenOruganti-Tech-Ebooks
+# Praveen Oruganti Tech Ebooks
 
 - [Introduction to Java and OOPS Concepts](https://praveenoruganti.github.io/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20Java%20Introduction_OOPS%20Concepts.pdf)
-
 
 - [Memory Management in Java](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20Java%20Memory%20Management.pdf)
 
@@ -42,4 +41,3 @@
 - [JAVA Interview Questions](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20Java%20Interview%20Questions.pdf)
 
 - [React JS Iterview Questions](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/React%20JS%20Interview%20questions.pdf)
-
