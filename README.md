@@ -42,4 +42,4 @@
 
 - [React JS Iterview Questions](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/raw/master/React%20JS%20Interview%20questions.pdf)
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+### [Contribute for a Cause](http://bit.ly/2WryDT8)
