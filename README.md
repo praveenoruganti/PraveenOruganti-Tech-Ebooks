@@ -42,6 +42,6 @@
 
 - [React JS Iterview Questions](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS%20Interview%20questions.pdf)
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 
