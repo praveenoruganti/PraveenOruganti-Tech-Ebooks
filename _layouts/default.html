@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,maximum-scale=2">
+  <link rel="stylesheet" type="text/css" media="screen"
+    href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  {% seo %}
+
+  <style>
+   
+    body {
+      background-color: white !important;
+      color: black !important;
+      font-family: "Poppins", sans-serif !important;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    .scrollable-element {
+      scrollbar-width: none !important;
+    }
+
+    footer {
+      text-align: center !important;
+      background: black !important;
+      box-shadow: 0 0 10px black !important;
+      color: white !important;
+      position: absolute !important;
+      bottom: 0 !important;
+      width: 100% !important;
+      height: 2.5rem !important;
+      overflow: hidden;
+    }
+
+    footer a {
+      color: lightblue !important;
+      text-decoration: none !important;
+    }
+
+    footer a:hover {
+      background: lightgreen !important;
+      color: black !important;
+    }
+
+    #page-container {
+      position: relative !important;
+      min-height: 100vh !important;
+    }
+
+    #main_content_wrap {
+      padding-bottom: 2.5rem !important;
+      background-color: white !important;
+      border: none !important;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="page-container">
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+
+    <!-- Main Footer-->
+    <footer>
+      <p> &copy;2010 -
+        <script type="text/javascript">document.write(new Date().getFullYear());</script> Praveen Oruganti |
+        Developed & Maintained by
+        <a href="https://linktr.ee/praveenoruganti" target="blank">
+          Praveen Oruganti.
+        </a>
+        All Rights Reserved.
+      </p>
+    </footer>
+  </div>
+
+  {% if site.google_analytics %}
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
+
+  <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="praveenoruganti"
+    data-description="Support me on Buy me a coffee!"
+    data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#5F7FFF" data-position="Right"
+    data-x_margin="18" data-y_margin="40"></script>
+</body>
+
+</html>
