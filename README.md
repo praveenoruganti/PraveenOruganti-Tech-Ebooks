@@ -1,4 +1,4 @@
-# Praveen Oruganti Tech Ebooks
+# Ebooks
 
 - [Introduction to Java and OOPS Concepts](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/Java%20Introduction_OOPS%20Concepts.pdf)
 
