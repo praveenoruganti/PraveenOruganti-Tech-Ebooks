@@ -41,10 +41,5 @@
 
 - [All About React JS](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS.pdf)
 
-- [JAVA Interview Questions](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/Java%20Interview%20Questions.pdf)
-
-- [React JS Iterview Questions](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS%20Interview%20questions.pdf)
-
-
 
 
