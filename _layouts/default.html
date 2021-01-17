@@ -2,8 +2,9 @@
 <html lang="{{ site.lang | default: " en-US" }}">
 
 <head>
+
     <link rel="icon"
-        href="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/favicon.ico" />
+        href="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/favicon.ico" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-186960773-2"></script>
     <script>
@@ -49,8 +50,8 @@
             font-weight: bold !important;
         }
 
-        footer p{
-            margin:0;
+        footer p {
+            margin: 0;
         }
 
         footer a {
@@ -59,6 +60,12 @@
             text-decoration: none !important;
         }
 
+        #main_content{
+            padding-top: 0px!important;
+            margin:1rem!important;
+            padding-bottom:2rem!important;
+
+        }
 
         #page-container {
             position: relative !important;
@@ -66,9 +73,10 @@
         }
 
         #main_content_wrap {
-            padding-bottom: 2.5rem !important;
+            padding-top: 1rem !important;
             background-color: white !important;
             border: none !important;
+            margin: 0 auto !important;
 
         }
 
@@ -76,14 +84,56 @@
             border: 0 !important;
             box-shadow: none !important;
         }
+
+        .header {
+            background: #131921;
+            height: 80px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        label.logo {
+            color: red;
+            font-size: 30px;
+            line-height: 80px;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            font-weight: bold;
+            position: relative;
+            bottom: 30px;
+            left: 30px;
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .company {
+            height: 50px;
+            width: 75px;
+            position: left;
+            left: 20px;
+            border:none!important;
+            box-shadow: none!important;
+        }
+
+
+
     </style>
 </head>
 
-<body oncontextmenu="return false">
+<body>
     <div id="page-container">
+
+        <div class="header">
+            <img class="company"
+                src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/praveenorugantitech.PNG">
+            <label class="logo">Praveen Oruganti Tech</label>
+        </div>
+
         <!-- MAIN CONTENT -->
-        <div id="main_content_wrap" class="outer">
-            <section id="main_content" class="inner">
+        <div id="main_content_wrap">
+            <section id="main_content">
                 {{ content }}
             </section>
         </div>
