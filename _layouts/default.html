@@ -38,27 +38,27 @@
 
         footer {
             text-align: center !important;
-            background: black !important;
-            box-shadow: 0 0 10px black !important;
+            background: #131921 !important;
             color: white !important;
-            position: absolute !important;
-            bottom: 0 !important;
             width: 100% !important;
             height: 2.5rem !important;
             position: fixed !important;
             left: 0 !important;
             bottom: 0 !important;
+            font-size: 1.25rem !important;
+            font-weight: bold !important;
+        }
+
+        footer p{
+            margin:0;
         }
 
         footer a {
-            color: lightblue !important;
+            color: #007bff !important;
+            background-color: transparent !important;
             text-decoration: none !important;
         }
 
-        footer a:hover {
-            background: lightgreen !important;
-            color: black !important;
-        }
 
         #page-container {
             position: relative !important;
@@ -79,7 +79,7 @@
     </style>
 </head>
 
-<body>
+<body oncontextmenu="return false">
     <div id="page-container">
         <!-- MAIN CONTENT -->
         <div id="main_content_wrap" class="outer">
